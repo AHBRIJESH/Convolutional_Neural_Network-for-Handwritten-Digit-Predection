@@ -1,1 +1,15 @@
 # Handwritten Digit Predection
+- In this repository i have programed a model depecting the Nural Network.<br>
+- This Nural Network only consist of a single layer network.<br>
+- I have used the minst dataset which is a pre-installed dataset in the tensorflow's keras library.<br>
+- Since this data set has totally 70,000 images i will be spliting the dataset into two parts they are:-<br>
+                 - Train part (x_train,y_train)<br>
+                 - Test part (x_test,y_test)<br>
+- Now that we seprated the dataset into rwo parts we have to convert the 2D array to 1D.<br>
+- The reason of doing this so is pretty intresting<br>
+- if we run the function shape in the x_train data set eg: x_train[0].shape.<br>
+- we would observe that it turn outs to be (28,28).<br>
+- it is so because the image is drawn in 28X28 matrix 2D array.<br>
+- we can not build a nural network with this type of data.<br>
+- so we flattern the data into 1D array which gives us 784 elements in an array this is 28*28=784.<br>
+- now we can feed the data to the built Nural network and necessary predections can be made. 
