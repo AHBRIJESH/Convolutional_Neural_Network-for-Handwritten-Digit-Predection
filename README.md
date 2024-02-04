@@ -1,6 +1,6 @@
 # Convolutional Neural Network Implementation with MNIST Dataset
 
-![](https://img.shields.io/badge/Implementation-Convolutional%Nural%20Network-darkred) 
+![](https://img.shields.io/badge/Implementation-Convolutional%20Nural%20Network-darkred) 
 
 This repository demonstrates the implementation of a Neural Network with a single layer using TensorFlow's Keras library. The model is trained on the MNIST dataset, consisting of 70,000 images. The dataset is split into two parts: the training set (`x_train`, `y_train`) and the test set (`x_test`, `y_test`).
 
