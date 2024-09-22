@@ -21,8 +21,8 @@ This repository demonstrates the implementation of Convolutional Neural Network 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/neural-network-mnist.git
-   cd neural-network-mnist
+   git clone https://github.com/AHBRIJESH/Handwritten-Digit-Predection.git
+   cd Handwritten-Digit-Predection
    ```
 
 2. Open and run the `Model.ipynb` notebook to train the Neural Network and make predictions.
